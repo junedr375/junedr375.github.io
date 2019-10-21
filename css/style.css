@@ -150,17 +150,17 @@
 
 /*Media Queries*/
 
-@media(min-width: 850px)
+@media(min-width: 1080px)
 {
 	.body{
-		width: 800px;
-		height: 1200px;
+		width: 1080px;
+		height: 1920px;
 	}
 
 	
 	.jumbotron{
-		width: 800px;
-		height: 1000px;
+		width: 1080px;
+		height: 1920px;
 		padding: 0;
 		background: #333 -800px -400px;
 		color: #fff;
@@ -211,7 +211,7 @@
 
 	}
 	.navbar{
-		width: 800px;
+		width: 1080px;
 		height:100px;
 		margin:0;
 		color: #fff;
@@ -245,12 +245,12 @@
 	}
 	
 	.img{
-		width:800px;
-		height:1200px; 
+		width:1080px;
+		height:1920px; 
 	}
 	.img1{
-		width:800px;
-		height: 1200px; 
+		width:1080px;
+		height: 1920px; 
 	}
 	
 	.main-footer{
