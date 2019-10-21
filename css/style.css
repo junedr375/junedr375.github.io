@@ -141,7 +141,52 @@
   display: block;
 }
 
+
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
   background-color: darkblue;
 }
+
+
+
+/*Media Queries*/
+
+@media(min-width: 650px)
+{
+	.body{
+		width: 600px;
+		height: 100%;
+	}
+
+	
+	.jumbotron{
+		width: 650px;
+		height: 100%;
+		padding: 0;
+		background: #333 -800px -400px;
+		color: #fff;
+		text-align: center;
+	
+	}
+
+	
+	.navbar{
+		width: 650px;
+		height: 100%;
+		margin:0;
+		color: #fff;
+	}
+	
+	.img{
+		width:650px;
+		height:1800px; 
+	}
+	.img1{
+		width:650px;
+		height: 1800px; 
+	}
+}
+
+
+
+
