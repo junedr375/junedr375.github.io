@@ -150,17 +150,17 @@
 
 /*Media Queries*/
 
-@media(min-width: 650px)
+@media(min-width: 850px)
 {
 	.body{
-		width: 600px;
-		height: 1800px;
+		width: 800px;
+		height: 1200px;
 	}
 
 	
 	.jumbotron{
-		width: 650px;
-		height: 1800px;
+		width: 800px;
+		height: 1200px;
 		padding: 0;
 		background: #333 -800px -400px;
 		color: #fff;
@@ -170,12 +170,11 @@
 
 	
 	.navbar{
-		width: 650px;
-	
+		width: 800px;
+		height:100px;
 		margin:0;
 		color: #fff;
 	}
-	/*core style*/
 
 	.container{
 		margin: 0;
@@ -220,8 +219,8 @@
 
 	}
 	.navbar{
-		width: 650px;
-
+		width: 800px;
+		height:100px;
 		margin:0;
 		color: #fff;
 	}
@@ -254,12 +253,12 @@
 	}
 	
 	.img{
-		width:650px;
-		height:1800px; 
+		width:800px;
+		height:1200px; 
 	}
 	.img1{
-		width:650px;
-		height: 1800px; 
+		width:800px;
+		height: 1200px; 
 	}
 	
 	.main-footer{
