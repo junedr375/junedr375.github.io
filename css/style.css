@@ -150,16 +150,16 @@
 
 /*Media Queries*/
 
-@media(min-width: 850px;)
+@media(min-width: 1000px;)
 {
 	.body{
-		width: 100%;
+		width: 1000px;
 		height: 1100px;
 	}
 
 	
 	.jumbotron{
-		width: 100%;
+		width: 1000px;
 		height: 1100px;
 		padding: 0;
 		background: #333 -800px -400px;
@@ -211,7 +211,7 @@
 
 	}
 	.navbar{
-		width: 100%;
+		width: 1000px;
 		height:100px;
 		margin:0;
 		color: #fff;
@@ -245,11 +245,11 @@
 	}
 	
 	.img{
-		width:100%;
+		width:1000px;
 		height:1100px; 
 	}
 	.img1{
-		width:100%;
+		width:1000px;
 		height: 1100px; 
 	}
 	
