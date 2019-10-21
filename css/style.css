@@ -150,7 +150,7 @@
 
 /*Media Queries*/
 
-@media(min-width: 100%)
+@media(min-width: 850px;)
 {
 	.body{
 		width: 100%;
